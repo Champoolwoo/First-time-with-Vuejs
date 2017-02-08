@@ -18,3 +18,7 @@ $ vue init webpack my-project
 ```bash
 $ npm install
 ```
+###Run
+```bash
+$ npm run dev
+```
