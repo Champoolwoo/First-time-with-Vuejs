@@ -22,3 +22,7 @@ $ npm install
 ```bash
 $ npm run dev
 ```
+###ติดตั้ง Axios
+```bash
+$ npm install axios --save
+```
